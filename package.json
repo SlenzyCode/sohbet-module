@@ -1,0 +1,15 @@
+{
+  "name": "slenzycode",
+  "version": "0.0.1",
+  "description": "SlenzyCode - NPM.JS Basit npm.js modülü oluşturma yapay zeka.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "slenzycode",
+  "license": "MIT",
+  "dependencies": {
+    "hercai": "^11.1.3",
+    "slenzycode": "^0.0.4"
+  }
+}
