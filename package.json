@@ -9,7 +9,6 @@
   "author": "slenzycode",
   "license": "MIT",
   "dependencies": {
-    "hercai": "^11.1.3",
-    "slenzycode": "^0.0.4"
+    "hercai": "^11.1.3"
   }
 }
